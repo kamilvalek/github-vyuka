@@ -48,6 +48,11 @@ Následující kód je pouze ukázka v dokumentaci:
 - [Dokumentace GitHubu](https://docs.github.com/)
 - [Můj cvičný repozitář](https://github.com/kamilvalek/github-vyuka)
 
+## Co už dokážu
+
+- **markdown**
+- ukládat ```README.md```
+
 ## Co projekt zatím neumí
 
 Web zatím není publikovaný.
