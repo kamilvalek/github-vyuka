@@ -5,7 +5,7 @@ Tento návod je pouze cvičná ukázka pro výuku GitHubu.
 ## Postup
 
 1. Otevřete dokument.
-2. Zkontrolujte nadpisy a formátování.
+2. Zkontrolujte správnost obsahu, nadpisy a formátování.
 3. Dokument sdílejte.
 
 ## Kontrolní seznam
