@@ -58,6 +58,11 @@ Následující kód je pouze ukázka v dokumentaci:
 Web zatím není publikovaný.
 Repozitář nyní slouží především k procvičování dokumentace.
 
+## Jak zaznamenávám změny
+
+Každou dokončenou úpravu ukládám jako commit.
+Zpráva commitu stručně vysvětluje, co jsem změnil.
+
 ## Studijní deník
 
 - 15.10.2026: Připravil jsem cvičný repozitář a jeho README.
