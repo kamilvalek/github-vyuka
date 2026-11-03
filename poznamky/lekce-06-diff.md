@@ -2,4 +2,4 @@
 
 Stav: připraveno.
 
-Kontroluji pouze vzhled dokumentu.
+Kontroluji obsah i vzhled dokumentu.
