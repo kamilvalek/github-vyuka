@@ -30,7 +30,7 @@ HTML stránka bude přidána v další lekci.
 ## Plán práce
 
 - [x] Připravit úvodní dokumentaci.
-- [ ] Vytvořit soubor index.html.
+- [x] Vytvořit soubor index.html.
 - [ ] Procvičit větve a kontrolu změn.
 - [ ] Publikovat cvičný web.
 
@@ -62,3 +62,4 @@ Repozitář nyní slouží především k procvičování dokumentace.
 
 - 15.10.2026: Připravil jsem cvičný repozitář a jeho README.
 - 15.10.2026: Procvičil jsem Markdown a rozšířil dokumentaci.
+- 03.11.2026: HTML stránka už existuje a lze ji otevřít po stažení.
