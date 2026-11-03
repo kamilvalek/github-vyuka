@@ -64,6 +64,10 @@ Každou dokončenou úpravu ukládám jako commit.
 Zpráva commitu stručně vysvětluje, co jsem změnil.
 Díky historii mohu dohledat starší podobu dokumentace.
 
+## Cvičné návody
+
+- [Kontrola dokumentu před sdílením](navody/kontrola-dokumentu.md)
+
 ## Studijní deník
 
 - 15.10.2026: Připravil jsem cvičný repozitář a jeho README.
