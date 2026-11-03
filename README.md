@@ -68,6 +68,11 @@ Díky historii mohu dohledat starší podobu dokumentace.
 
 - [Kontrola dokumentu před sdílením](navody/kontrola-dokumentu.md)
 
+- ## Způsob práce se změnami
+
+Nové úpravy nejprve připravuji v samostatné větvi.
+Hlavní větev `main` proto může zatím zůstat beze změny.
+
 ## Studijní deník
 
 - 15.10.2026: Připravil jsem cvičný repozitář a jeho README.
