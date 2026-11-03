@@ -72,6 +72,7 @@ Díky historii mohu dohledat starší podobu dokumentace.
 
 Nové úpravy nejprve připravuji v samostatné větvi.
 Hlavní větev `main` proto může zatím zůstat beze změny.
+Před začleněním lze návrh porovnat s `main` a zkontrolovat.
 
 ## Studijní deník
 
