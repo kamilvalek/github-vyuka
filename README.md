@@ -62,6 +62,7 @@ Repozitář nyní slouží především k procvičování dokumentace.
 
 Každou dokončenou úpravu ukládám jako commit.
 Zpráva commitu stručně vysvětluje, co jsem změnil.
+Díky historii mohu dohledat starší podobu dokumentace.
 
 ## Studijní deník
 
