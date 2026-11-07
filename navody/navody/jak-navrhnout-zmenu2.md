@@ -7,7 +7,7 @@ Tento dokument je cvičný návod pro fiktivní tým.
 1. Z hlavní větve vytvořte novou větev.
 2. Upravte soubory a zaznamenejte změnu commitem.
 3. Otevřete pull request do hlavní větve.
-4. Zkontrolujte změny.
+4. Na kartě Files changed zkontrolujte všechny změněné řádky a vyřešte připomínky.
 5. Sloučte připravený návrh.
 6. Odstraňte dokončenou pracovní větev.
 
