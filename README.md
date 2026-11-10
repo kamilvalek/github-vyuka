@@ -21,7 +21,6 @@ Nevkládám hesla, přístupové klíče ani skutečné osobní údaje.
 ## Jak s projektem pracovat
 
 Projekt je zatím ve fázi přípravy.
-HTML stránka bude přidána v další lekci.
 
 1. Otevřete tento repozitář.
 2. Přečtěte si soubor `README.md`.
@@ -31,7 +30,7 @@ HTML stránka bude přidána v další lekci.
 
 - [x] Připravit úvodní dokumentaci.
 - [x] Vytvořit soubor index.html.
-- [ ] Procvičit větve a kontrolu změn.
+- [x] Procvičit větve a kontrolu změn.
 - [ ] Publikovat cvičný web.
 
 ## Ukázka budoucí stránky
