@@ -74,6 +74,18 @@ Nové úpravy nejprve připravuji v samostatné větvi.
 Hlavní větev `main` proto může zatím zůstat beze změny.
 Před začleněním lze návrh porovnat s `main` a zkontrolovat.
 
+## Otevření webu na počítači
+
+1. Na hlavní stránce repozitáře vyberte větev `main`.
+2. Zvolte Code → Download ZIP.
+3. Stažený ZIP nejprve rozbalte.
+4. V rozbalené složce otevřete `index.html` v prohlížeči.
+
+Tím otevřete místní kopii webu na svém počítači.
+Nevzniká tím veřejně publikovaný web.
+
+Postup nevyžaduje instalaci Gitu ani GitHub Desktopu.
+
 ## Studijní deník
 
 - 15.10.2026: Připravil jsem cvičný repozitář a jeho README.
