@@ -85,6 +85,10 @@ Nevzniká tím veřejně publikovaný web.
 
 Postup nevyžaduje instalaci Gitu ani GitHub Desktopu.
 
+## Jak přispívat
+
+Postup pro návrhy změn najdete v [pravidlech přispívání](CONTRIBUTING.md).
+
 ## Studijní deník
 
 - 15.10.2026: Připravil jsem cvičný repozitář a jeho README.
