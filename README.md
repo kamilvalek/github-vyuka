@@ -89,6 +89,9 @@ Postup nevyžaduje instalaci Gitu ani GitHub Desktopu.
 
 Postup pro návrhy změn najdete v [pravidlech přispívání](CONTRIBUTING.md).
 
+## Malý tahák pro ukázku
+- [Kde co najdu v projektu](navody/kde-najdu-co.md)
+
 ## Studijní deník
 
 - 15.10.2026: Připravil jsem cvičný repozitář a jeho README.
